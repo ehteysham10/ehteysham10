@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ehtasham! 👋
 
-<!--
-**ehteysham10/ehteysham10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior MERN Stack Developer and IT professional based in Lahore, Pakistan. I specialize in backend development, designing robust RESTful APIs, and building secure, scalable full-stack web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Frontend:** React.js, Vite, Tailwind CSS, JavaScript
+- **Environment & Tools:** Ubuntu/Linux, Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **[ShopNPay](#)** - Full-stack e-commerce platform with JWT authentication and Stripe API integration.
+* **[Running Tribe](#)** - Full-stack app featuring Google OAuth, real-time chat, and premium memberships.
+
+### 📫 Connect with Me
+- 💼 [LinkedIn]: https://www.linkedin.com/in/ehteysham/
+- 🌐 [Portfolio] : https://ehtasham-portfolio-six.vercel.app/
